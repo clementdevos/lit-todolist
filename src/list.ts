@@ -1,7 +1,6 @@
 import {css, customElement, html, LitElement} from 'lit-element';
-import './list';
 
-@customElement('lit-home')
+@customElement('my-list')
 export class MyElement extends LitElement {
   static styles = css`
     :host {
@@ -12,17 +11,12 @@ export class MyElement extends LitElement {
     }
   `;
   render() {
-    return html`
-      <div>
-      Coucou
-        <my-list></my-list>
-      </div>
-    `;
+    return html`<div>Hithere</div>`;
   }
 }
 
 declare global {
   interface HTMLElementTagNameMap {
-    'lit-home': MyElement;
+    "my-list": MyElement;
   }
 }
