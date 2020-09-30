@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18668033-0d25-4420-872b-891ee51a45b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/list.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/list.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/list.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/list.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/my-element.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-element.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +33,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v14.1.0/bin/node" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,12 +59,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600773871101</updated>
-      <workItem from="1600773872221" duration="1371000" />
+      <workItem from="1600773872221" duration="1989000" />
+      <workItem from="1601463201648" duration="4535000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1631" y="452" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1600774857171">
@@ -64,6 +80,10 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1327" y="368" width="992" height="737" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1600774666850" />
+    <state x="989" y="477" width="581" height="512" key="find.popup" timestamp="1601463258548">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="989" y="477" width="581" height="512" key="find.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1601463258548" />
     <state x="1486" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1600774659216">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>

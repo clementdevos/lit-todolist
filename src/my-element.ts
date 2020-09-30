@@ -4,17 +4,19 @@ import './list';
 @customElement('lit-home')
 export class MyElement extends LitElement {
   static styles = css`
+  * {
+   font-family : Fira Sans
+  }
     :host {
-      display: block;
-      border: solid 1px gray;
+      display: flex;
+      width : 100%
+      alignItems: center;
       padding: 16px;
-      max-width: 800px;
     }
   `;
   render() {
     return html`
       <div>
-      Coucou
         <my-list></my-list>
       </div>
     `;
